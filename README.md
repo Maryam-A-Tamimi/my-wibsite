@@ -33,7 +33,3 @@ my-website/
 ##  Purpose
 
 This project is part of learning HTML basics, including structure, links, images, forms, and tables.
-
-## 👩‍💻 Author
-
-Maryam Tamimi
